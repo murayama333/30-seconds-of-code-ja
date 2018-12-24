@@ -19,29 +19,3 @@ fromCamelCase('someDatabaseFieldName', ' '); // 'some database field name'
 fromCamelCase('someLabelThatNeedsToBeCamelized', '-'); // 'some-label-that-needs-to-be-camelized'
 fromCamelCase('someJavascriptProperty', '_'); // 'some_javascript_property'
 ```
-
-
-### indentString
-### isAbsoluteURL
-### isAnagram
-### isLowerCase
-### isUpperCase
-### mapString
-### mask
-### pad
-### palindrome
-### pluralize
-### removeNonASCII
-### reverseString
-### sortCharactersInString
-### splitLines
-### stringPermutations
-### stripHTMLTags
-### toCamelCase
-### toKebabCase
-### toSnakeCase
-### toTitleCase
-### truncateString
-### unescapeHTML
-### URLJoin
-### words
