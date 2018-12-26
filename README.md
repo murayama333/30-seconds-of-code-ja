@@ -5,13 +5,17 @@
 + [30 seconds of code](https://30secondsofcode.org/)
 + [30 seconds of code GitHub](https://github.com/30-seconds/30-seconds-of-code/)
 
-## 作成中
+## 完了
 
 + 📜 String
 
-## 作成予定
-+ 🔌 Adapter
+## 作成中
+
 + 📚 Array
+
+## 作成予定
+
++ 🔌 Adapter
 + 🌐 Browser
 + ⏱️ Date
 + 🎛️ Function
