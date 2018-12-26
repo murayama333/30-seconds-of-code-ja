@@ -2,8 +2,6 @@
 
 キャメルケースの文字列を変換します。
 
-Converts a string from camelcase.
-
 `String.prototype.replace()`を使って、キャメルケースを単語の並びに変換します。単語の並びはアンダースコア、ハイフン、スペースなどで補完します。
 
 ```js
